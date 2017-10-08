@@ -1,9 +1,9 @@
-# ★★★★★ Gruvbox ★★★★★
+# ★★★★★ NORD DARK ★★★★★
 
-## Beautiful Dark Collection
+#### The same [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) with Dark Background
 
-#### Gruvbox ★★★★★
-![Gruvbox-5](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-5.png)
+#### NORD DARK ★★★★★
+![Nord-5](https://raw.githubusercontent.com/sldobri/nord-5-stars/master/images/nord.png)
 
 ### Background hacks - if you need more colors
 
